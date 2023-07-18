@@ -5,3 +5,11 @@
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/web3p/ethereum-util/blob/master/LICENSE)
 
 A collection of utility functions for Ethereum written in php.
+
+
+# Install
+
+Set minimum stability to dev
+```
+composer require mrinte/ethereum-util
+```
